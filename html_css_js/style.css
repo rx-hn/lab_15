@@ -1,0 +1,117 @@
+#nagl
+{
+    font-family: 'Bangers', cursive;
+    color: rgb(157, 157, 157);
+}
+
+.navbar-inverse .nav li a .glyphicon 
+{
+    color: #e96363;
+} 
+
+#cialo
+{
+    font-size:18px; 
+    color:white; 
+    background:#323232;
+    font-family: 'Baloo Chettan', cursive;
+}
+
+.navbar 
+{
+        margin-bottom: 0;
+        border-radius: 0;
+}
+
+#srodek
+{
+    margin: auto;
+}
+
+.row.content 
+{
+    height: 400px;
+}
+    
+.sidenav
+{
+    padding-top: 5%;
+    padding-bottom: 2%;
+    background-color: #f1f1f1;
+    height: 100%;
+}
+
+footer
+{
+    color: white;
+    padding: 15px;
+}
+
+@media screen and (max-width: 767px)
+{
+    .sidenav
+    {
+        height: auto;
+    }
+    .row.content {height:auto;} 
+}
+
+#logo
+{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+
+    top:10px;
+    left:4%;
+
+}
+
+#logo img
+{
+    max-height:30px;
+}
+
+.carousel-caption
+{
+    color: white;
+    font-weight: 900;
+}
+
+#ikonaduza
+{
+    color: teal;
+}
+
+#galeria
+{
+    height: 200px;
+    width: 300px;
+}
+
+.navbar-inverse .nav li a .glyphicon {
+    color:teal;
+}
+
+.alert-danger {
+    background-color: black;
+}
+
+#main-page{
+    background-color: #222222;
+    border: none;
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+}
+
+td {
+    border: 1px solid #dddddd;
+}
+
+tr:nth-child(even), tr:nth-child(1) {
+    background-color: #222222;
+}
